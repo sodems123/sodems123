@@ -4,6 +4,9 @@
 - 💞️ I’m looking to collaborate on WIX design projects, Business Intelligence and other Data Analytics projects. 
 - 📫 You can reach out to me @ stevewestpalm@gmail.com
 
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 <!---
 sodems123/sodems123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
